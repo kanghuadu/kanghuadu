@@ -8,12 +8,10 @@ As an enthusiast of bioinformatics analysis.
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://mp.weixin.qq.com/s/-rn6KX5m2fPey_f7XbBGgw"><code><img height="20" width="50" src="./images/微信.png"></code></a>：[订阅号](https://mp.weixin.qq.com/s/-rn6KX5m2fPey_f7XbBGgw)
--   <a href="https://www.zhihu.com/people/xiaodu.com"><code><img height="20" width="50" src="./images/知乎.png"></code></a>：[知乎](https://www.zhihu.com/people/xiaodu.com)
--   <a href= "https://blog.csdn.net/kanghua_du?type=blog"><code><img height="20" width="50" src="./images/CSDN.png"></code></a>：[CSDN](https://blog.csdn.net/kanghua_du?type=blog)
+[![wechat](https://img.shields.io/badge/Bioinfo-微信公众号-important)](https://github.com/kanghuadu/kanghuadu/blob/main/images/WX.jpg) 
+[![planet](https://img.shields.io/badge/Bioinfo-知乎-blueviolet)](https://www.zhihu.com/people/xiaodu.com)
+[![R-CMD-check](https://img.shields.io/badge/Bioinfo-CSDN-green)](https://blog.csdn.net/kanghua_du?type=blog)
 
+<img src="https://media0.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.webp" width="250"> 
 
 ![DuLab's github stats](https://github-readme-stats.vercel.app/api?username=kanghuadu&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghuadu&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghuadu&layout=compact&langs_count=6)
